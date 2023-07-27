@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "df5d1d0bcfd9d6b4",
@@ -148,13 +148,16 @@
   },
   "active": "f081ea046f54bde9",
   "lastOpenFiles": [
+    "Pasted image 20230727110211.png",
+    "Pasted image 20230727110015.png",
+    "Pasted image 20230727105643.png",
+    "Pasted image 20230727105525.png",
     "Pasted image 20230727083033.png",
     "Pasted image 20230727083003.png",
     "Pasted image 20230727082945.png",
     "Pasted image 20230727082922.png",
     "Pasted image 20230727082824.png",
     "Pasted image 20230727082733.png",
-    "Pasted image 20230727082728.png",
-    "Pasted image 20230727082642.png"
+    "Pasted image 20230727082728.png"
   ]
 }

@@ -103,3 +103,15 @@ import requests
 ![[Pasted image 20230727082642.png]]
 <h3> 2 : Practica de juego de snake con camara ( Teachable Machine)</h3>
 ![[Pasted image 20230727082733.png]] 
+
+
+<h1>✔D í a  4</h1>
+<h3> 1: Practica  crud en postman</h3>
+![[Pasted image 20230727105525.png]]
+
+![[Pasted image 20230727105643.png]]
+	
+<h3> 2: Practica Api ChatGPT</h3>
+![[Pasted image 20230727110015.png]]
+
+![[Pasted image 20230727110211.png]]
