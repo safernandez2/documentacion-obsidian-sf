@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ec00ce2ce9e2a8f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da264321139e760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f081ea046f54bde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eec38ba43b86e71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "936396558c3c0bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f3201b566e2e7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "714b74cc466f8081",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5a7e70169e2234a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df5d1d0bcfd9d6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e68f996619173f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14208a4310e22c04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec763a5ddd197743",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e76568e84a4f1b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9451769333e0dacf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f081ea046f54bde9",
+  "lastOpenFiles": [
+    "Pasted image 20230727083033.png",
+    "Pasted image 20230727083003.png",
+    "Pasted image 20230727082945.png",
+    "Pasted image 20230727082922.png",
+    "Pasted image 20230727082824.png",
+    "Pasted image 20230727082733.png",
+    "Pasted image 20230727082728.png",
+    "Pasted image 20230727082642.png"
+  ]
+}
