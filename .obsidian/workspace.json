@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "✔D í a 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d591af9feaf9ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✔D í a 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85e5aeb9fe8bf3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✔D í a 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "✔D í a 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "✔D í a 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "✔D í a 3.md"
               }
             }
           }
@@ -146,18 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f081ea046f54bde9",
+  "active": "85e5aeb9fe8bf3ac",
   "lastOpenFiles": [
-    "Pasted image 20230727110211.png",
-    "Pasted image 20230727110015.png",
-    "Pasted image 20230727105643.png",
-    "Pasted image 20230727105525.png",
-    "Pasted image 20230727083033.png",
-    "Pasted image 20230727083003.png",
-    "Pasted image 20230727082945.png",
-    "Pasted image 20230727082922.png",
-    "Pasted image 20230727082824.png",
-    "Pasted image 20230727082733.png",
-    "Pasted image 20230727082728.png"
+    "✔D í a 1.md",
+    "✔D í a 2.md",
+    "✔D í a 4.md",
+    "✔D í a 3.md",
+    "Images/Pasted image 20230728165514.png",
+    "Images/Pasted image 20230728165339.png",
+    "Images/Pasted image 20230728165102.png",
+    "Images",
+    "Images/Pasted image 20230727110211.png",
+    "Images/Pasted image 20230727110015.png",
+    "Images/Pasted image 20230727105643.png",
+    "Images/Pasted image 20230727105525.png",
+    "Images/Pasted image 20230727083033.png",
+    "Images/Pasted image 20230727083003.png",
+    "Images/Pasted image 20230727082945.png"
   ]
 }
